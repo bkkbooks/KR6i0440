@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0440/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 餓鬼報應經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0746.xml
+    old_id: T17n0746
+hash: sha256:0f2bd8abe7d9b9d9c52beb574dac3939739324c823d584ed52ba067c0aa48611

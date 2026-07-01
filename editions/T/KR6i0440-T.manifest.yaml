@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0440/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0440/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 餓鬼報應經
+  identifiers:
+    krp: KR6i0440
+    cbeta: T17n0746
+    cbeta_old_id: T17n0746
+    authorityid: CA0000811
+    json_key: T0746
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0746.xml
+    old_id: T17n0746
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0440_000-T.yaml, hash: 'sha256:0f2bd8abe7d9b9d9c52beb574dac3939739324c823d584ed52ba067c0aa48611'}
+  - {seq: 1, filename: KR6i0440_001-T.yaml, hash: 'sha256:84c018318b87c8e0c1e0d6de32efa98c81a0c9bf9195162bf799735d62c1203e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0440_000-T.markers.yaml, hash: 'sha256:ec3f70d436245ec15642e1f0cb87743fdba5774ea6978e7acd345af4195d89a1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0440_001-T.markers.yaml, hash: 'sha256:952f7677413cfb21a8f6c0c4a283ff4f713e3116207761d6d9f10e5ae90e4bd5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0440_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2563
+  label: 餓鬼報應經
+  type: juan
+  level: 1
+hash: sha256:d01fd7b18fbd018ea8cac9a41e0522af27ac0c3a2825be6d0ff68775e59e0a4a
